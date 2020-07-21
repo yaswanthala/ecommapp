@@ -6,3 +6,4 @@ remotefix dev
 commit 1
 commit 1 rebase
 commit 2
+commit 2 rebase
