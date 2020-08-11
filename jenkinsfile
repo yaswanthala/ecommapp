@@ -1,8 +1,8 @@
 node{
 stage('SCM'){
-git https://github.com/yaswanthala/ecommapp.git 
-}
+  git https://github.com/yaswanthala/ecommapp.git 
+  }
 stage('pwd'){
-sh pwd
-}
+  sh pwd
+  }
 }
